@@ -6,3 +6,5 @@
 ## Buy Tractor - Make Farming Easier!
 * [MODDROP Link](https://www.moddrop.com/stardew-valley/mods/606639-tractor-mod)
 * Utilizes SMAPI
+![Stardew Tractor](https://github.com/user-attachments/assets/f7ad6c9f-0fe4-4b5a-88f6-e6f1029a1198)
+
