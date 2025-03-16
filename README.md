@@ -7,6 +7,6 @@
 * [MODDROP Link](https://www.moddrop.com/stardew-valley/mods/606639-tractor-mod)
 * Utilizes SMAPI
 ![Stardew Tractor](https://github.com/user-attachments/assets/f7ad6c9f-0fe4-4b5a-88f6-e6f1029a1198)
-## How to Use SMAPI
+## How to Use SMAPI - YouTube
 [![Youtube Mod Stardew](https://github.com/user-attachments/assets/a15d9b47-a259-47e7-ae9d-9111f066a33c)](http://www.youtube.com/watch?v=BkohJW_TFRg&t=39s)
 
